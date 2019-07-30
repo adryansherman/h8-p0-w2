@@ -17,7 +17,6 @@ Pseudocode
     DISPLAY 'F'
 
 
-
 B. Tahun kabisat
 
 Algoritma
