@@ -43,7 +43,7 @@ Pseudocode
     IF ("sisa1" EQUALS TO 0 AND "sisa2" GREATER THAN 0) OR ("sisa1" AND "sisa2" AND "sisa3" EQUALS TO 0) THEN
     DISPLAY "tahun kabisat"
     ELSE 
-    DISPLAY "Bukan Kabisat"
+    DISPLAY "bukan Kabisat"
     ENDIF
 
 C. Laundry D
