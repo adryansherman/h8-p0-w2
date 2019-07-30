@@ -30,7 +30,7 @@ Algoritma
 7. Simpan hasil perhitungan dengan variable "sisa3"
 8. jika ("sisa1" sama dengan 0 dan "sisa" lebih dari 0) atau ("sisa1" AND "sisa2" AND "sisa3" EQUALS TO 0) tampilkan "tahun kabisat"
 9. Selain itu tampilkan "bukan kabisat"
-10.program selesai
+10. program selesai
 
 Pseudocode
     STORE "tahun" with any value
