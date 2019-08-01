@@ -24,10 +24,8 @@ for (var y = 0; y <= rows2; y++)
 console.log('====================')
 
 
-console.log('====================')
-
 //MEnyusun Barisan Tangga Bintang dengan Nested loop
-var rows3 = 5;
+var rows3 = 8;
 var vertikal = 1;
 var horizontal = 1;
 var bintang = '';
